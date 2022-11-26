@@ -3,14 +3,14 @@
     "version":1,
     "builde":[
         {
-            "src":"index.js.js",
+            "src":"index.js",
             "user":"@now/node"
         }
     ],
     "routes":[
         {
             "src":"/(.*)",
-            "dest":"server.js"
+            "dest":"index.js.js"
 
         }
     ]
