@@ -1,0 +1,18 @@
+{
+
+    "version":1,
+    "builde":[
+
+        {
+            "src":"server.js",
+            "user":"@now/node"
+        }
+    ],
+    "roites":[
+        {
+            "src":"/(.*)",
+            "dest":"server.js"
+
+        }
+    ]
+}
