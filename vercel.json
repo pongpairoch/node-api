@@ -1,8 +1,7 @@
 {
 
     "version":1,
-    "builds":[
-
+    "builde":[
         {
             "src":"index.js.js",
             "user":"@now/node"
