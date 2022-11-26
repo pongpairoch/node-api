@@ -1,10 +1,10 @@
 {
 
     "version":1,
-    "builde":[
+    "builds":[
 
         {
-            "src":"server.js",
+            "src":"index.js.js",
             "user":"@now/node"
         }
     ],
